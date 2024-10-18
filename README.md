@@ -23,20 +23,16 @@ The objective of the SOC Automation project was to set up a comprehensive home l
 
 *Ref 1: Architecture Diagram of the SOC Automation Lab*
 
-![Architecture Diagram](insert_image_url_here)
+![Architecture Diagram](https://github.com/user-attachments/assets/6b2d3115-90a2-4877-a6c2-ac4308ec89d4)
 
 *Ref 2: Wazuh Dashboard Displaying Alerts*
 
-![Wazuh Dashboard](insert_image_url_here)
+![Wazuh Dashboard](https://github.com/user-attachments/assets/5921d19d-e4ab-4c30-9e4e-e80896b3dd7b)
 
 *Ref 3: Interface of The Hive for Case Management*
 
-![The Hive Interface](insert_image_url_here)
-
-*Ref 4: Kibana Dashboard with Data Visualizations*
-
-![Kibana Dashboard](insert_image_url_here)
+![The Hive Interface](https://github.com/user-attachments/assets/6636ea93-64c4-45f5-a317-40a1d4eb15bb)
 
 *Ref 5: Automation Workflow in Shuffle*
 
-![Shuffle Workflow](insert_image_url_here)
+![Shuffle Workflow](https://github.com/user-attachments/assets/415b206d-9c25-4099-bd75-d21b4bbb0913)
