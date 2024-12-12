@@ -17,7 +17,6 @@ The objective of the SOC Automation project was to set up a comprehensive home l
 - **Wazuh**: Deployed as the primary SIEM and XDR solution for log ingestion, analysis, and alert generation.
 - **The Hive**: Utilized for managing cases, providing a centralized platform for incident tracking and resolution.
 - **Shuffle**: Implemented for automating security workflows, enabling a more efficient incident response process.
-- **Elasticsearch & Kibana**: Leveraged for data storage and visualization, creating dashboards to monitor security events in real time.
 
 ## Steps
 
